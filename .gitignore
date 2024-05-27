@@ -1,0 +1,69 @@
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+# Web related
+lib/generated_plugin_registrant.dart
+# Symbolication related
+app.*.symbols
+# Obfuscation related
+app.*.map.json
+# Android related
+local.properties
+*.iml
+.android/
+Flutter/build/
+# iOS related
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/engine.xcframework
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace
+ios/build/
+ios/Pods/
+# macOS related
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.podspec
+macos/Flutter/Flutter.podspec.json
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.podspec
+macos/Flutter/Flutter.podspec.json
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/engine.xcframework
+macos/Pods/
+macos/build/
+# Windows related
+windows/flutter/ephemeral
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.res
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.res
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.res
+windows/flutter/generated_plugins.cmake
+windows/flutter/generated_plugins.cmake
+# Linux related
+linux/flutter/ephemeral
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+linux/flutter/generated_plugin_registrant.res
+linux/flutter/generated_plugins.cmake
+# Web related
+web/generated_plugin_registrant.dart
+# JetBrains related
+.idea/
+*.iml
