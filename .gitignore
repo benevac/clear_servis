@@ -67,3 +67,5 @@ web/generated_plugin_registrant.dart
 # JetBrains related
 .idea/
 *.iml
+.DS_Store
+
