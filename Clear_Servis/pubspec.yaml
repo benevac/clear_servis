@@ -29,5 +29,6 @@ dev_dependencies:
 
 flutter:
   assets:
+    - assets/images/AppBar.png
     - assets/images/italki_logo.png
   uses-material-design: true
